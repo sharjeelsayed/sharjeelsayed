@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Sharjeel
 ![](http://SharjeelSayed.com)
 
-I am a DevOps guy with 2 decades of experience setting up and managing large scale tech infrastructure
+I am a DevOps guy with 2 decades of experience in large scale tech infrastructure
 
-Skills: Linux / AWS / Docker / Kubernetes / Automation / Security
+Skills: Linux / Cloud / Docker / Kubernetes / Automation / Security
 
-- 📫 How to reach me: T.me/SharjeelSayed 
+- 📫 How to reach me: Github@SharjeelSayed.com 
 - 😄 Pronouns: He / Him 
 
 
