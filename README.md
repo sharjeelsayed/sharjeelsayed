@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Sharjeel
 ![](http://SharjeelSayed.com)
 
-I am a DevOps guy with 2 decades of experience in large scale tech infrastructure
+I am a DevOps architect with 2 decades of experience in large scale tech infrastructure
 
 Skills: Linux / Cloud / Docker / Kubernetes / Automation / Security
 
