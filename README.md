@@ -3,7 +3,7 @@
 
 I am a [Systems Architect](https://en.wikipedia.org/wiki/Systems_architect) with 2 decades of experience.
 
-Skills: Linux / Cloud / Docker / Kubernetes / Automation / Security
+Skills: Linux / Cloud / Kubernetes / Virtualization / Containers / Security / Automation 
 
 - 🔭 I’m currently working on http://Learn.SharjeelSayed.com 
 - 📫 How to reach me: Github@SharjeelSayed.com 
