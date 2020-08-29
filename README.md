@@ -6,7 +6,7 @@ I am a [Systems Architect](https://en.wikipedia.org/wiki/Systems_architect) with
 Skills: Linux / Cloud / Kubernetes / Virtualization / Containers / Security / Automation 
 
 - 🔭 I’m currently working on http://Learn.SharjeelSayed.com 
-- 📫 How to reach me: Github@SharjeelSayed.com 
+- 📫 How to reach me: GitHub@SharjeelSayed.com 
 - 😄 Pronouns: He / Him 
 
 
