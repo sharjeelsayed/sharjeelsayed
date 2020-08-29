@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Sharjeel
 ![](http://SharjeelSayed.com)
 
-I am a [Systems architect](https://en.wikipedia.org/wiki/Systems_architect) with 2 decades of experience.
+I am a [Systems Architect](https://en.wikipedia.org/wiki/Systems_architect) with 2 decades of experience.
 
 Skills: Linux / Cloud / Docker / Kubernetes / Automation / Security
 
