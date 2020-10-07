@@ -22,7 +22,6 @@ I am a [DevOps](https://en.wikipedia.org/wiki/DevOps) and [Cloud](https://en.wik
 
     Search : Elasticsearch/Elastic Stack, Lucene
 
-- 👨‍💻 Skills: Linux / AWS / Kubernetes / Docker / Virtualization / Infrastructure as Code / CI/CD / Web, Email, DNS Servers / Database / Automation / Security Tools 
 - 🔭 I’m currently working on [Learn.SharjeelSayed.com](https://Learn.SharjeelSayed.com)
 - 📫 Reach me: GitHub@SharjeelSayed.com 
 - 😄 Pronouns: He / Him 
