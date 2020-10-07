@@ -6,7 +6,7 @@ I am a [DevOps](https://en.wikipedia.org/wiki/DevOps) and [Cloud](https://en.wik
     
     Cloud : Amazon Web Services, Digital Ocean, Heroku, Linode, Vultr
 
-    Container and Orchestration : Kubernetes, Docker
+    Container Orchestration : Kubernetes, Docker
 
     Infrastructure as Code : Ansible, Terraform, CloudFormation, AWS Elastic Beanstalk, OpsWorks, Vagrant, Bash
 
