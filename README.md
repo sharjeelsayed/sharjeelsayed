@@ -3,9 +3,9 @@
 I am a [DevOps](https://en.wikipedia.org/wiki/DevOps) and [Cloud](https://en.wikipedia.org/wiki/Cloud_computing_architecture) Architect with 18 years of hands-on experience managing Distributed Systems , Applications and MicroServices for Fortune 500 Companies, Banks, ISPs, Data Centers and Startups
 
 - 👨‍💻 Skills:
-- ✅ Cloud : Amazon Web Services, Digital Ocean, Heroku, Linode, Vultr
+    ✅ Cloud : Amazon Web Services, Digital Ocean, Heroku, Linode, Vultr
 
-- ✅ Container and Orchestration : Kubernetes, Docker
+✅ Container and Orchestration : Kubernetes, Docker
 
  ✅ Infrastructure as Code : Ansible, Terraform, CloudFormation, AWS Elastic Beanstalk, OpsWorks, Vagrant, Bash
 
