@@ -5,24 +5,6 @@ I am a [Cloud](https://en.wikipedia.org/wiki/Cloud_computing_architecture)/[Syst
 
 Skills: Linux / Cloud / Kubernetes / Docker / Virtualization Platforms / Web Servers / Email Servers / DNS Servers / Automation / Security Tools 
 
-✅ Cloud : Amazon Web Services, Digital Ocean ,Linode, Vulr
-
-✅ Container and Orchestration : Kubernetes, Docker
-
-✅ Automation : Ansible, Terraform, CloudFormation, Vagrant, Bash
-
-✅ CI/CD : Jenkins, GitLab, AWS CodePipeline
-
-✅ Linux : Ubuntu, Red Hat ,Centos, Amazon Linux
-
-✅ Web Servers : Nginx, Apache, IIS
-
-✅ Monitoring : Nagios, Prometheus, Grafana
-
-✅ Database administration : MySQL, PostgreSQL
-
-✅ Search : Elasticsearch/Elastic Stack, Lucene
-
 - 🔭 I’m currently working on http://Learn.SharjeelSayed.com 
 - 📫 How to reach me: GitHub@SharjeelSayed.com 
 - 😄 Pronouns: He / Him 
