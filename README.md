@@ -9,7 +9,7 @@ I am a [DevOps](https://en.wikipedia.org/wiki/DevOps) and [Cloud](https://en.wik
     * CI/CD : Jenkins, GitLab, AWS CodePipeline
     * Web Servers : Nginx, Apache
     * Monitoring : Nagios, Prometheus, Grafana
-    * Database administration : MySQL, PostgreSQL
+    * Database Administration : MySQL, PostgreSQL
     * Search : Elasticsearch/Elastic Stack, Lucene
 
 - 🔭 I’m currently working on [Learn.SharjeelSayed.com](https://Learn.SharjeelSayed.com)
