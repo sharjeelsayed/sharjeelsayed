@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sharjeel
 ![](http://SharjeelSayed.com)
-I am a [DevOps](https://en.wikipedia.org/wiki/DevOps) and [Cloud](https://en.wikipedia.org/wiki/Cloud_computing_architecture) Architect with 18 years of hands-on experience managing Distributed Systems and MicroServices for Fortune 500 Companies, Banks, ISPs, Data Centers and Startups
+I am a [DevOps](https://en.wikipedia.org/wiki/DevOps) and [Cloud](https://en.wikipedia.org/wiki/Cloud_computing_architecture) Architect with 18 years of hands-on experience managing [Distributed Systems](https://en.wikipedia.org/wiki/Distributed_computing) and [MicroServices](https://en.wikipedia.org/wiki/Microservices) for Fortune 500 Companies, Banks, ISPs, Data Centers and Startups
 
 - 👨‍💻 Skills:
     * Linux : Ubuntu, Red Hat, CentOS, Amazon Linux, Debian
