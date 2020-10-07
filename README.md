@@ -3,11 +3,10 @@
 I am a [DevOps](https://en.wikipedia.org/wiki/DevOps) and [Cloud](https://en.wikipedia.org/wiki/Cloud_computing_architecture) Architect with 18 years of hands-on experience managing Distributed Systems , Applications and MicroServices for Fortune 500 Companies, Banks, ISPs, Data Centers and Startups
 
 - 👨‍💻 Skills:
+    * Linux : Ubuntu, Red Hat, CentOS, Amazon Linux, Debian
     * Container Orchestration : Kubernetes, Docker
     * Infrastructure as Code : Ansible, Terraform, CloudFormation, AWS Elastic Beanstalk, OpsWorks, Vagrant, Bash
     * CI/CD : Jenkins, GitLab, AWS CodePipeline
-    * CI/CD : Jenkins, GitLab, AWS CodePipeline
-    * Linux : Ubuntu, Red Hat, CentOS, Amazon Linux, Debian
     * Web Servers : Nginx, Apache
     * Monitoring : Nagios, Prometheus, Grafana
     * Database administration : MySQL, PostgreSQL
