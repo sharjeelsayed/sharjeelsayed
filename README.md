@@ -3,7 +3,7 @@
 
 I am a [DevOps](https://en.wikipedia.org/wiki/DevOps) Engineer and [Cloud](https://en.wikipedia.org/wiki/Cloud_computing_architecture) Architect with 2 decades of experience
 
-Skills: Linux / Cloud / Kubernetes / Docker / Virtualization Platforms / Web Servers / Email Servers / DNS Servers / Automation / Security Tools 
+Skills: Linux / Cloud / Kubernetes / Docker / Virtualization / CI/CD / Web Servers / Email Servers / Databases / DNS Servers / Infrastructure as code / Automation / Security Tools 
 
 - 🔭 I’m currently working on [Learn.SharjeelSayed.com](https://Learn.SharjeelSayed.com)
 - 📫 How to reach me: GitHub@SharjeelSayed.com 
