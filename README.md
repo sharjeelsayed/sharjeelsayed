@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Sharjeel
 ![](http://SharjeelSayed.com)
-
 I am a [DevOps](https://en.wikipedia.org/wiki/DevOps) Engineer and [Cloud](https://en.wikipedia.org/wiki/Cloud_computing_architecture) Architect with 2 decades of experience
 
 Skills: Linux / AWS / Kubernetes / Docker / Virtualization / Infrastructure as Code / CI/CD / Web, Email, DNS Servers / Database / Automation / Security Tools 
