@@ -4,13 +4,21 @@ I am a [DevOps](https://en.wikipedia.org/wiki/DevOps) and [Cloud](https://en.wik
 
 - 👨‍💻 Skills:
 ✅ Cloud : Amazon Web Services, Digital Ocean, Heroku, Linode, Vultr
+
 ✅ Container and Orchestration : Kubernetes, Docker
+
 ✅ Infrastructure as Code : Ansible, Terraform, CloudFormation, AWS Elastic Beanstalk, OpsWorks, Vagrant, Bash
+
 ✅ CI/CD : Jenkins, GitLab, AWS CodePipeline
+
 ✅ Linux : Ubuntu, Red Hat, CentOS, Amazon Linux, Debian
+
 ✅ Web Servers : Nginx, Apache, IIS
+
 ✅ Monitoring : Nagios, Prometheus, Grafana
+
 ✅ Database administration : MySQL, PostgreSQL
+
 ✅ Search : Elasticsearch/Elastic Stack, Lucene
 
 - 👨‍💻 Skills: Linux / AWS / Kubernetes / Docker / Virtualization / Infrastructure as Code / CI/CD / Web, Email, DNS Servers / Database / Automation / Security Tools 
