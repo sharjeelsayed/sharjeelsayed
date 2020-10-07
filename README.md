@@ -14,7 +14,7 @@ I am a [DevOps](https://en.wikipedia.org/wiki/DevOps) and [Cloud](https://en.wik
 
     Linux : Ubuntu, Red Hat, CentOS, Amazon Linux, Debian
 
-    Web Servers : Nginx, Apache, IIS
+    Web Servers : Nginx, Apache
 
     Monitoring : Nagios, Prometheus, Grafana
 
