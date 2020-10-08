@@ -4,9 +4,9 @@ I am a [DevOps](https://en.wikipedia.org/wiki/DevOps) and [Cloud](https://en.wik
 
 - 👨‍💻 Skills:
     * Linux : Ubuntu, Red Hat, CentOS, Amazon Linux, Debian
-    * Container Orchestration : Kubernetes, Docker
-    * Infrastructure as Code : Ansible, Terraform, CloudFormation, AWS Elastic Beanstalk, OpsWorks, Vagrant, Bash
-    * CI/CD : Jenkins, GitLab, AWS CodePipeline
+    * Container Orchestration : Kubernetes, Docker Swarm, Rancher, Kops, EKS, ECS, Fargate, OpenShift
+    * Infrastructure as Code : Ansible, Terraform, CloudFormation, AWS Elastic Beanstalk, OpsWorks, Packer, Vagrant
+    * CI/CD : Jenkins, GitLab, CodePipeline
     * Web Servers : Nginx, Apache
     * Monitoring : Nagios, Prometheus, Grafana
     * Database Administration : MySQL, PostgreSQL
