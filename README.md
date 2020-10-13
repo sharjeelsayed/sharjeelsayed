@@ -3,14 +3,15 @@
 I am a [DevOps](https://en.wikipedia.org/wiki/DevOps) and [Cloud](https://en.wikipedia.org/wiki/Cloud_computing_architecture) Architect with 18 years of hands-on experience managing [Distributed Systems](https://en.wikipedia.org/wiki/Distributed_computing) and [MicroServices](https://en.wikipedia.org/wiki/Microservices) for Fortune 500 Companies, Banks, ISPs, Data Centers and Startups
 
 - 👨‍💻 Skills:
-    * Linux : Ubuntu, Red Hat, CentOS, Amazon Linux, Debian
+    * Cloud : Amazon Web Services, DigitalOcean, Heroku, Linode, Vultr
     * Container Orchestration : Kubernetes, Docker Swarm, Rancher, Kops, EKS, ECS, Fargate, OpenShift
-    * Infrastructure as Code : Ansible, Terraform, CloudFormation, AWS Elastic Beanstalk, OpsWorks, Packer, Vagrant
+    * Infrastructure as Code : Ansible, Terraform, CloudFormation, Beanstalk, OpsWorks, CloudInit
     * CI/CD : Jenkins, GitLab, CodePipeline
+    * Linux : Ubuntu, Red Hat, CentOS, Amazon Linux, Debian
     * Web Servers : Nginx, Apache
-    * Monitoring : Nagios, Prometheus, Grafana
-    * Database Administration : MySQL, PostgreSQL
-    * Search : Elasticsearch/Elastic Stack, Lucene
+    * Monitoring : Nagios, Prometheus, Grafana, Datadog, New Relic
+    * Database Administration : MySQL, PostgreSQL, Redis, MongoDB
+    * Search : Elasticsearch/Elastic Stack, Apache Solr
 
 - 🔭 I’m currently working on [Learn.SharjeelSayed.com](https://Learn.SharjeelSayed.com)
 - 📫 Reach me: GitHub@SharjeelSayed.com 
