@@ -28,3 +28,13 @@ I am a [DevOps](https://en.wikipedia.org/wiki/DevOps) and [Cloud](https://en.wik
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SharjeelSayed&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/SharjeelSayed)
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-180666132-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-180666132-1');
+</script>
