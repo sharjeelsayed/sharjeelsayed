@@ -8,7 +8,7 @@ I am a [DevOps](https://en.wikipedia.org/wiki/DevOps) and [Cloud](https://en.wik
     * Infrastructure as Code : Ansible, Terraform, CloudFormation, Beanstalk, OpsWorks, CloudInit
     * CI/CD : Jenkins, GitLab, CodePipeline
     * Linux : Ubuntu, Red Hat, CentOS, Amazon Linux, Debian
-    * Web Servers : Nginx, Apache
+    * Web Servers : Nginx, Apache, HAProxy
     * Monitoring : Nagios, Prometheus, Grafana, Datadog, New Relic
     * Database Administration : MySQL, PostgreSQL, Redis, MongoDB
     * Search : Elasticsearch/Elastic Stack, Apache Solr
