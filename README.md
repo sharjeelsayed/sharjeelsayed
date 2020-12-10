@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Sharjeel
 
 ![](http://SharjeelSayed.com)
-I am a [DevOps](https://en.wikipedia.org/wiki/DevOps), [SRE](https://en.wikipedia.org/wiki/Site_reliability_engineering), [DevSecOps](https://en.wikipedia.org/wiki/DevOps#DevSecOps,_Shifting_Security_Left), and [Solutions Architect](https://en.wikipedia.org/wiki/Solution_architecture) with 18 years of hands-on experience managing and designing [Distributed Systems](https://en.wikipedia.org/wiki/Distributed_computing) and [MicroServices](https://en.wikipedia.org/wiki/Microservices) for Fortune 500 Companies, Banks, ISPs, Data Centers, Media Conglomerates, FMCG and Startups
+I am a [DevOps](https://en.wikipedia.org/wiki/DevOps), [SRE](https://en.wikipedia.org/wiki/Site_reliability_engineering), [DevSecOps](https://en.wikipedia.org/wiki/DevOps#DevSecOps,_Shifting_Security_Left), and [Solutions Architect](https://en.wikipedia.org/wiki/Solution_architecture) with 18 years of hands-on experience managing and designing [Distributed Systems](https://en.wikipedia.org/wiki/Distributed_computing) and [MicroServices](https://en.wikipedia.org/wiki/Microservices) for Fortune 500 Companies, Banks, ISPs, Data Centers, Media Conglomerates, FMCGs and Startups
 
 - 👨‍💻 Skills:
 
