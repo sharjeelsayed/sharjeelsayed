@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Sharjeel
 
 ![](http://SharjeelSayed.com)
-I am a [DevOps](https://en.wikipedia.org/wiki/DevOps), [SRE](https://en.wikipedia.org/wiki/Site_reliability_engineering) and [Solutions Architect](https://en.wikipedia.org/wiki/Solution_architecture) having 18 years of hands-on experience with Fortune 500 Companies, Banks, ISPs, Data Centers, Media Conglomerates, FMCGs and Startups
+I am a [DevOps](https://en.wikipedia.org/wiki/DevOps), [SRE](https://en.wikipedia.org/wiki/Site_reliability_engineering) and a [Solutions Architect](https://en.wikipedia.org/wiki/Solution_architecture) having 18 years of hands-on experience with Fortune 500 Companies, Banks, ISPs, Data Centers, Media Conglomerates, FMCGs and Startups
 
 - 👨‍💻 Skills:
 
