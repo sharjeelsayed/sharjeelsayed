@@ -15,8 +15,8 @@ I am a [DevOps](https://en.wikipedia.org/wiki/DevOps), [SRE](https://en.wikipedi
   - Database Administration : MySQL, PostgreSQL, Redis, MongoDB
   - Search : Elasticsearch/Elastic Stack, Apache Solr
 
-- 🔭 I’m currently working on [Learn.SharjeelSayed.com](https://Learn.SharjeelSayed.com)
-- 📫 Reach me: GitHub@SharjeelSayed.com
+- 🔭 I’m currently working on [Learn.SharjeelSayed.COM](https://Learn.SharjeelSayed.com)
+- 📫 Reach me: GitHub@SharjeelSayed.COM
 - 😄 Pronouns: He / Him
 
 - 🤝 Connect with me:  
