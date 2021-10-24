@@ -5,15 +5,14 @@ I am a [DevOps](https://en.wikipedia.org/wiki/DevOps), [SRE](https://en.wikipedi
 
 - 👨‍💻 Skills:
 
-  - Cloud : Amazon Web Services, DigitalOcean, Heroku, Linode, Vultr
-  - Container Orchestration : Kubernetes, Docker Swarm, Rancher, Kops, EKS, ECS, Fargate, OpenShift
-  - Infrastructure as Code : Ansible, Terraform, CloudFormation, Beanstalk, OpsWorks, CloudInit
-  - CI/CD : Jenkins, GitLab, CodePipeline
+  - Cloud : Amazon Web Services, DigitalOcean
+  - Container Orchestration : Kubernetes, Docker Swarm, Kops, EKS, ECS, Fargate
+  - Infrastructure as Code : Ansible, Terraform, CloudFormation
+  - CI/CD : Jenkins, GitLab, AWS CodePipeline
   - Linux : Ubuntu, Red Hat, CentOS, Amazon Linux, Debian
   - Web Servers : Nginx, Apache, HAProxy
-  - Monitoring : Nagios, Prometheus, Grafana, Fluentd, Datadog, New Relic
+  - Monitoring : Nagios, Prometheus, Grafana
   - Database Administration : MySQL, PostgreSQL, Redis, MongoDB
-  - Search : Elasticsearch/Elastic Stack, Apache Solr
 
 - 🔭 I’m currently working on [Learn.SharjeelSayed.COM](https://Learn.SharjeelSayed.com)
 - 📫 Reach me: GitHub@SharjeelSayed.COM
