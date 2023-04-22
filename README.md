@@ -24,7 +24,7 @@ I am a [DevOps](https://en.wikipedia.org/wiki/DevOps), [SRE](https://en.wikipedi
 - 🙏 Support me:  
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/digitalocean.svg' alt='digitalocean' height='40'>](https://m.do.co/c/d3160b5e33e8) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/americanexpress.svg' alt='americanexpress' height='40'>](http://amex.in/refer/sHARJsCJfI) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dropbox.svg' alt='dropbox' height='40'>](https://db.tt/YL0e12GN) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mega.svg' alt='mega' height='40'>](https://mega.nz/C!vuhRiKpB) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/todoist.svg' alt='todoist' height='40'>](https://todoist.com/r/Sharjeel_Sayed_pndvuw) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/repl-dot-it.svg' alt='repl-dot-it' height='40'>](https://repl.it/upgrade/sharjeelsayed) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/payoneer.svg' alt='payoneer' height='40'>](http://share.payoneer.com/nav/gJpTWscAr6xJD14ZBR4gK1Mz9pGKs23iSC5MeSpZ_3L11XA8Vnny4cwQciAVBRLRG1bc5d2c5jNqUK1E7kq17A2)  
 
-- 🗞️ Subscribe to my newsletter: https://newsletter.sharjeelsayed.com
+- 🗞️ Subscribe to my newsletter: [NewsLetter.SharjeelSayed.com](https://newsletter.sharjeelsayed.com)
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
 
